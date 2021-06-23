@@ -1,4 +1,4 @@
-baseURL = "https://verdaria.netlify.com"
+baseURL = "https://testvdr.netlify.com"
 disableLanguages = [""]
 disqusShortname = ""
 draft = true
