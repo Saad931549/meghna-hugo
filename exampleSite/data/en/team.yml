@@ -18,19 +18,18 @@ team:
       link: http://linkedin.com/in/arish-naim-2a6ab5140
     - icon: ti-dribbble
       link: "#"
-  - name: Frank Miller
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Saad Mohammad
+    image_webp: images/team/saad.webp
+    image: images/team/saad.jpg
+    designation: COO - Operations Head
+    content: Electronics Engineering Undergraduate; VLSI, FPGA and RTL Design Enthusiast
     social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: https://www.linkedin.com/in/saad-mohammad-897911110/
     - icon: ti-dribbble
       link: "#"
   - name: Michael Jonson
