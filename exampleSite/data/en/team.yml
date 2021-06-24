@@ -1,21 +1,21 @@
 ---
 team:
-  enable: false
+  enable: true
   title: Our Team
   team_member:
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+  - name: Arish Naim
+    image_webp: images/team/arish.webp
+    image: images/team/arish.jpg
     designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Arish Naim, Industrial Chemist Graduate Student. Worked as Visiting Research
+      Scholar at University of British Columbia, Canada
     social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: http://linkedin.com/in/arish-naim-2a6ab5140
     - icon: ti-dribbble
       link: "#"
   - name: Frank Miller
