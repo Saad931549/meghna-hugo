@@ -3,14 +3,14 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: 'Please feel free to contact via mail or phone. You can expect a reply
+  content: 'Please feel free to contact us via mail or phone. You can expect a reply
     to the mail within next 24 hours. Our team is operational throughout the week
     from 10 AM to 9 PM. Timings are in IST- Indian Standard Time (GMT +5:30 hours). '
   contact_list:
   - icon: ti-mobile
     info: 'Arish : +91-7906165478'
   - icon: ti-mobile
-    info: 'Phone: +91-7252921053'
+    info: 'Saad: +91-7252921053'
   - icon: ti-location-pin
     info: Aligarh, Uttar Pradesh, India
   - icon: ti-email
