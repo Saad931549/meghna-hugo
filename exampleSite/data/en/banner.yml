@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/mit-Carbon-Capture-01_0.webp
-  bg_image: images/backgrounds/mit-Carbon-Capture-01_0.jpg
+  bg_image_webp: images/mit-Carbon-Capture-01_0.webp
+  bg_image: images/mit-Carbon-Capture-01_0.jpg
   icon: ''
   title: Carbon Capture Devices
   content: 'The atmosphere could certainly do well without such a high amount of CO2
