@@ -13,8 +13,6 @@ contact:
     info: 'Phone: +91-7252921053'
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: contact.verdaria@gmail.com'
   contact_form:
