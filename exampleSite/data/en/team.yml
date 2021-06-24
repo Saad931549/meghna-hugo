@@ -19,8 +19,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Saad Mohammad
-    image_webp: images/team/saad.webp
-    image: images/team/saad.jpg
+    image_webp: images/saad.webp
+    image: images/saad.jpg
     designation: COO - Operations Head
     content: Electronics Engineering Undergraduate; VLSI, FPGA and RTL Design Enthusiast
     social:
