@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Arish Naim
-    image_webp: images/team/arish.webp
-    image: images/team/arish.jpg
+    image_webp: images/arish.webp
+    image: images/arish.jpg
     designation: CEO/Founder
     content: Arish Naim, Industrial Chemist Graduate Student. Worked as Visiting Research
       Scholar at University of British Columbia, Canada
