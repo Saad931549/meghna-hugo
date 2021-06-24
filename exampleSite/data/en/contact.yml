@@ -3,9 +3,9 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Please feel free to contact via mail or phone. Our team is operational
-    throughout the week from 10 AM to 9 PM. Timings are in IST- Indian Standard Time
-    (GMT +5:30 hours)
+  content: 'Please feel free to contact via mail or phone. You can expect a reply
+    to the mail within next 24 hours. Our team is operational throughout the week
+    from 10 AM to 9 PM. Timings are in IST- Indian Standard Time (GMT +5:30 hours). '
   contact_list:
   - icon: ti-mobile
     info: 'Arish : +91-7906165478'
