@@ -1,12 +1,15 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Carbon Capture Devices
+  content: 'The atmosphere could certainly do well without such a high amount of CO2
+    present inside of it. At Verdaria, we specialize in bridging the gap between the
+    innovating and researching frontier and the various industries and manufacturing
+    sectors where these novel technologies could be applied. '
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
