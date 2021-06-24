@@ -4,11 +4,13 @@ banner:
   bg_image_webp: images/mit-Carbon-Capture-01_0.webp
   bg_image: images/mit-Carbon-Capture-01_0.jpg
   icon: ''
-  title: Carbon Capture Devices
-  content: 'The atmosphere could certainly do well without such a high amount of CO2
-    present inside of it. At Verdaria, we specialize in bridging the gap between the
-    innovating and researching frontier and the various industries and manufacturing
-    sectors where these novel technologies could be applied. '
+  title: CO2 Capture Device thru Voltage Oscillations in Bio based Material
+  content: 'The concept of electro-swing adsorption by quinone is feasible and sustainable
+    technology as this material can be reused and would be cost effective as compared
+    to the existing technologies of carbon capturing. Proposed research  is based
+    on a sustainable natural polymer and primarily focuses on the application of this
+    technology in automobiles which later could be extended to industrial exhaust
+    systems. '
   button:
     enable: true
     label: Explore Us
