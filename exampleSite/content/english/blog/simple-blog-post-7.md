@@ -5,6 +5,7 @@ image_webp: "/images/ieee.webp"
 image: "/images/ieee.jpg"
 author: Arish Naim & Saad Mohammad
 description: This is meta description
+draft: true
 
 ---
 **RESEARCH PROPOSAL COMPETITION SUBMISSION**
